@@ -15,22 +15,22 @@ Old backups are deleted:
 
 ### Usage
 
-#### Local
+*Local*
 
 pymachine.py ~/myFolderToBackup /Volumes/SomeUSBDrive/backups/myFolderToBackup
 
-#### Remote
+*Remote*
 
 pymachine.py ~/myFolderToBackup loginName@myhost.com:/Volumes/SomeUSBDrive/backups/myFolderToBackup
 
 ### Requirements
 
-#### Local backups:
+*Local backups:*
 
 - [rsync][Rsync]
 - Python
 
-#### Remote backups:
+*Remote backups:*
 
 - Same as above, plus
 - passwordless ssh
