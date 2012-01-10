@@ -15,13 +15,13 @@ Old backups are deleted:
 
 ### Usage
 
-*Local*
+*Local:*
 
-pymachine.py ~/myFolderToBackup /Volumes/SomeUSBDrive/backups/myFolderToBackup
+	pymachine.py ~/myFolderToBackup /Volumes/SomeUSBDrive/backups/myFolderToBackup
 
-*Remote*
+*Remote:*
 
-pymachine.py ~/myFolderToBackup loginName@myhost.com:/Volumes/SomeUSBDrive/backups/myFolderToBackup
+	pymachine.py ~/myFolderToBackup loginName@myhost.com:/Volumes/SomeUSBDrive/backups/myFolderToBackup
 
 ### Requirements
 
