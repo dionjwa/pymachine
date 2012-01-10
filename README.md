@@ -13,6 +13,8 @@ Old backups are deleted:
 - Only one backup is kept per day for the last 7 days
 - Only one backup per week is kept for backups older than 3 months
 
+This is great for remote backups, or when you want to have hourly backups on a USB stick yet consuming the minimum space.
+
 ### Usage
 
 *Local:*
